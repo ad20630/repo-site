@@ -1,7 +1,7 @@
-import Sidebar from './components/Sidebar.tsx';
+import Navbar from './components/Navbar.tsx';
 
 function App(){
-  return <div> <Sidebar /></div>
+  return <div> <Navbar /></div>
 }
 
 export default App;
